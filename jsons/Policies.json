@@ -381,7 +381,6 @@
                 "name": "Cultural Exchange",
                 "uniques": [
 					"[+16]% [Culture] [in all cities with a world wonder]",	
-                    "When declaring friendship, both parties gain a [20]% boost to great person generation",
 					"[+1 Culture] from every [Great Improvement]",
                 ],
                 "requires": ["Cultural Centers"],
@@ -402,7 +401,7 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-					"[+10]% [Culture] from every [Museum]","[+15]% [Culture] from every [Opera House]","[+20]% [Culture] from every [Broadcast Tower]",
+					"[+20]% [Culture] from every [Museum]","[+20]% [Culture] from every [Opera House]","[+20]% [Culture] from every [Broadcast Tower]",
 					"[+1 Science] from every [Museum]",
                     "[+1 Science] from every [Amphitheater]",
                     "[+1 Science] from every [Opera House]",
@@ -416,7 +415,7 @@
             {
                 "name": "Aesthetics Complete",
                 "uniques": [
-		            "[+70]% Golden Age length",	
+		            "[+50]% Golden Age length",	
 		            "[+2 Production, +2 Food] [in all cities with a world wonder]",	
 					"[+100]% Production when constructing [Archaeologist] units [in all cities]",
 					"Free Social Policy",
@@ -583,7 +582,7 @@
     {
         "name": "Commerce",
         "uniques": [
-            "[+1 Gold] [in all cities]",
+            "[+25]% [Gold] [in capital]",
             "Comment [Unlocks [Big Ben]]"
         ],
         "era": "Medieval era",
@@ -593,8 +592,8 @@
                 "uniques": [
                     "[Great Merchant] is earned [33]% faster",
                     "[+50]% Production when constructing [Market] buildings [in all cities]",
-                    "[+60]% Production when constructing [Bank] buildings [in all cities]",
-                    "[+70]% Production when constructing [Stock Exchange] buildings [in all cities]"
+                    "[+50]% Production when constructing [Bank] buildings [in all cities]",
+                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -602,9 +601,7 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "[Military] units gain the [Mercenary] promotion",
 					"Comment [Allows purchasing [Landsknecht] at [Civil Service]]",
-                    "Comment [Allows purchasing [Foreign Legion] at [Replaceable Parts]]",
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -613,8 +610,8 @@
             {
                 "name": "Silk Road",
                 "uniques": [
-                    "[-33]% maintenance on road & railroads",
-                    "[+50]% [Gold] from Trade Routes",
+                    "[-50]% maintenance on road & railroads",
+                    "[+25]% [Gold] from Trade Routes",
 					"[-25]% maintenance cost for [all] buildings [in all cities]",
                     "Provides [2] [Trade Route]"
                 ],
@@ -626,9 +623,10 @@
                 "name": "Mercantilism",
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-20]%",
-                    "[+1 Happiness, +1 Gold] from every [Market]",
-                    "[+1 Happiness, +1 Gold] from every [Bank]",
-                    "[+1 Happiness, +2 Gold] from every [Stock Exchange]"
+					"[+1 Science] from every [Mint]",
+                    "[+1 Happiness, +1 Science] from every [Market]",
+                    "[+1 Happiness, +1 Science] from every [Bank]",
+                    "[+1 Happiness, +1 Science] from every [Stock Exchange]"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -638,7 +636,7 @@
                 "name": "Protectionism",
                 "uniques": [
                     "[+1 Food] from every [Trading post]",
-                    "[+1 Science, +1 Culture, +5 Gold] from every [Customs house]",
+					"[+2] Happiness from each type of luxury resource"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 3,
@@ -648,8 +646,6 @@
                 "name": "Commerce Complete",
                 "uniques": [
                     "[2] free [Great Merchant] units appear",
-					"[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
-                    "[+10 Gold, +2 Happiness] from every [National Treasury]",
                     "[+1 Food] from every [Caer]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
@@ -696,7 +692,7 @@
                 "name": "Free Thought",
                 "uniques": [
                     "[+1 Science] from every [Trading post]",
-		    "[+4 Science] from every [Academy]",
+		            "[+4 Science] from every [Academy]",
                     "[+17]% [Science] from every [University]"
                 ],
                 "requires": [
@@ -732,6 +728,7 @@
                 "name": "Rationalism Complete",
                 "uniques": [
                     "Free [Great Scientist] appears",
+					"Free Technology",
                     "May buy [Great Scientist] units for [2000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
