@@ -353,7 +353,7 @@
 			"Must be adjacent to [0] [Lakes] tiles",
 			"Tile provides yield without assigned population"
 		],
-        "weight": 0
+        "weight": 1
     },
 	{
 		"name": "Socotra",
