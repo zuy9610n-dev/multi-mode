@@ -348,7 +348,11 @@
         "occursOn": ["Plains"],
         "impassable": true,
         "unbuildable": true,
-        "uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
+        "uniques": ["Fresh water",
+			"Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Lakes] tiles",
+			"Tile provides yield without assigned population"
+		],
         "weight": 10
     },
 	{
