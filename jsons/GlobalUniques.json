@@ -1,0 +1,14 @@
+{
+
+    "name": "Global uniques",
+    "uniques": [
+        "[+1 Production] from every [Mountain] <after discovering [Chemistry]>",
+        "[This unit] gains [5] XP <for [{Major} {AI player}] units> <on [Immortal] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[+25]% XP gained from combat <for [{Major} {AI player}] units> <on [Immortal] difficulty>",
+        "[This unit] gains [10] XP <for [{Major} {AI player}] units> <on [Deity] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[+50]% XP gained from combat <for [{Major} {AI player}] units> <on [Deity] difficulty>",
+        "[This unit] gains [10] XP <for [{Major} {AI player}] units> <on [Deity+] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
+        "[+50]% XP gained from combat <for [{Major} {AI player}] units> <on [Deity+] difficulty>",
+        "[+25]% XP gained from combat <for [{Major} {player}] units> <on [Deity+] difficulty>"
+    ]
+}
