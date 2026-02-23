@@ -25,11 +25,6 @@
     "food": 3,
     "gold": 1,
     "RGB": [0, 171,169],
-    "occursOn": ["Lakes"],
-    "turnsInto": "Lakes"
-    "unbuildable": false,
-    "impassable": false,
-    "weight": 10,
     "uniques": ["Fresh water",
 		        "Considered [Food] when determining start locations",
 		        "Considered [Desirable] when determining start locations"
