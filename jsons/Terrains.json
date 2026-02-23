@@ -31,7 +31,6 @@
     "impassable": false,
     "weight": 10,
     "uniques": ["Fresh water",
-		        "Occurs in groups of [25] to [25] tiles",
 		        "Considered [Food] when determining start locations",
 		        "Considered [Desirable] when determining start locations"
 	           ],
