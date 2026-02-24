@@ -322,21 +322,6 @@
 		"weight": 5
 	},
 	{
-        "name": "Lake Victoria",
-        "type": "NaturalWonder",
-        "food": 7,
-        "occursOn": ["Plains"],
-		"turnsInto": "lakes",
-        "impassable": true,
-        "unbuildable": true,
-        "uniques": ["Fresh water",
-			        "Must be adjacent to [0] [Coast] tiles",
-			        "Must be adjacent to [0] [lakes] tiles",
-			        "Must be adjacent to [6] [Plains] tiles"
-		           ],
-        "weight": 1
-    },
-	{
 		"name": "Socotra",
 		"type": "NaturalWonder",
 		"movementCost": 4,
