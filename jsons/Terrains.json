@@ -19,17 +19,6 @@
 
   },
   {
-
-    "name": "Lakes",
-    "type": "Water",
-    "food": 3,
-    "gold": 1,
-    "RGB": [123, 202, 226],
-    "uniques": ["Fresh water",
-		        "Considered [Food] when determining start locations"
-	           ]
-  },
-  {
 		"name": "Oasis",
 		"type": "TerrainFeature",
 		"food": 3,
