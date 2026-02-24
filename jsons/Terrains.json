@@ -337,7 +337,7 @@
         "type": "NaturalWonder",
         "food": 7,
         "occursOn": ["Plains"],
-		"turnsInto": "Lakes",
+		"turnsInto": "Mountain",
         "impassable": true,
         "unbuildable": true,
         "uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
