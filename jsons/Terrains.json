@@ -340,7 +340,10 @@
 		"turnsInto": "Mountain",
         "impassable": true,
         "unbuildable": true,
-        "uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
+        "uniques": ["Fresh water",
+			        "Must be adjacent to [0] [Coast] tiles",
+		            "Max instances in world [1]"
+		           ],
         "weight": 10
     },
 	{
