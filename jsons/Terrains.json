@@ -343,8 +343,7 @@
         "uniques": ["Fresh water",
 			        "Must be adjacent to [0] [Coast] tiles",
 			        "Must be adjacent to [0] [lakes] tiles",
-			        "Must be adjacent to [2] to [6] [Plains] tiles",
-		            "Tile provides yield without assigned population"
+			        "Must be adjacent to [6] [Plains] tiles"
 		           ],
         "weight": 1
     },
