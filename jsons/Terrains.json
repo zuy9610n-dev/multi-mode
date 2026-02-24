@@ -342,7 +342,7 @@
         "unbuildable": true,
         "uniques": ["Fresh water",
 			        "Must be adjacent to [0] [Coast] tiles",
-		            "Max instances in world [1]"
+		            "Max instances per map [1]"
 		           ],
         "weight": 10
     },
