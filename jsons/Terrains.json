@@ -337,7 +337,7 @@
         "type": "NaturalWonder",
         "food": 7,
         "occursOn": ["Plains"],
-		"turnsInto": "Mountain",
+		"turnsInto": "lakes",
         "impassable": true,
         "unbuildable": true,
         "uniques": ["Fresh water",
