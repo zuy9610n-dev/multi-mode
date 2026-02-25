@@ -304,7 +304,6 @@
                     "[+3 Gold] from every [Holy site]",
                     "[+33]% [Gold] from every [Grand Temple]"
                 ],
-                "requires": ["Organized Religion"],
                 "row": 1,
                 "column": 5
             },
@@ -327,7 +326,7 @@
 					    "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
 					    "Gain a free [Enhancer] belief <after founding a religion>"
 				],
-                "requires": ["Free Religion"],
+                "requires": ["Organized Religion"],
                 "row": 2,
                 "column": 2
             },
@@ -399,7 +398,7 @@
 					"[+1 Culture] from every [Great Work]",
                     "[+1 Culture] from every [World Wonder]",
                 ],
-                "requires": ["Cultural Centers", "Monumentality"],
+                "requires": ["Cultural Centers"],
                 "row": 2,
                 "column": 4
             },
