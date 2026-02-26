@@ -1,0 +1,10 @@
+[
+   {
+        "name": "Native Tongue",
+        "uniques": [
+            "Ignores ruins <hidden from users>",
+            "Comment [Allows you to choose your ruins reward]",
+            "Triggers a [Native Tongue full] event <upon entering a [Ancient ruins] tile> <hidden from users>"
+        ]
+    }
+]
