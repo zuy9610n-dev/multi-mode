@@ -60,7 +60,7 @@
         "modifier": 1.5,
         "productionCostModifier": 1.5,
         "goldCostModifier": 1.5,
-        "scienceCostModifier": 1.7,
+        "scienceCostModifier": 1.8,
         "cultureCostModifier": 1.5,
         "faithCostModifier": 1.5,
         "improvementBuildLengthModifier": 1.5,
