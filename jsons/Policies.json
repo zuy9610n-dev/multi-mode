@@ -106,7 +106,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "Can build [all] improvements at a [+50]% rate",
+                    "Can build [all] improvements at a [+25]% rate",
 					"Free [Worker] appears"
                 ],
                 "row": 1,
@@ -127,7 +127,7 @@
             {
                 "name": "Representation",
                 "uniques": [
-                    "Each city founded increases culture cost of policies [30]% less than normal",
+                    "Each city founded increases culture cost of policies [50]% less than normal",
 					"[+1 Gold] from every [Monument]",
                     "[-33]% unhappiness from the number of cities"                    
                 ],
