@@ -1,0 +1,24 @@
+[
+  {
+        "name": "Winged Hussar",
+        "replaces": "Knight",
+        "uniqueTo": "Poland",
+        "unitType": "Mounted",
+        "movement": 4,
+        "strength": 18,
+        "cost": 125,
+        "requiredTech": "Chivalry",
+        "requiredResource": "Horses",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "[+33]% Strength <vs [Armored] units>",
+            "[+33]% Strength <vs [Mounted] units>"
+        ],
+        "promotions": ["Charge", "Heavy Charge", "Quick Study", "Extra Movement"],
+        "upgradesTo": "Cavalry",
+        "obsoleteTech": "Military Science",
+        "attackSound": "horse"
+    }
+]
