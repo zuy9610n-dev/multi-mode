@@ -149,7 +149,7 @@
         "innerColor": [80,11,14],
         "uniqueName": "Solidarity",
         "uniques": ["[-15]% Culture cost of adopting new Policies",
-                    "Free Social Policy <upon entering a new era> <after turn number [3]> <hidden from users>"
+                    "Free Social Policy <upon entering a new era> <after turn number [3]>"
                    ],
         "cities": [
             "Warsaw","Krakow","Lodz","Wroclaw","Poznan","Gdansk","Szczecin","Bydgoszcz","Lublin","Kaunas",
