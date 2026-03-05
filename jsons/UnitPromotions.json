@@ -6,5 +6,15 @@
             "Comment [Allows you to choose your ruins reward]",
             "Triggers a [Native Tongue full] event <upon entering a [Ancient ruins] tile> <hidden from users>"
         ]
+    },
+    {
+        "name": "Heavy Charge",
+        "uniques": [
+            "[+50]% Strength <when attacking>"
+        ]
+    },
+    {
+        "name": "Extra Movement",
+        "uniques": ["[+1] Movement"]
     }
 ]
