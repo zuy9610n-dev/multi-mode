@@ -209,11 +209,12 @@
 	{
 		"name": "Cerro de Potosi",
 		"type": "NaturalWonder",
-		"gold": 10,
+		"gold": 15,
 		"production": 2,
 		"occursOn": ["Plains","Mountain"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [1] to [6] [Hill] tiles",
+			"Grants [+1000 Gold] to the first civilization to discover it"
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
@@ -301,6 +302,7 @@
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [3] to [6] [Plains] tiles",
+			"Grants [+20 Faith] to the first civilization to discover it,
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
@@ -333,7 +335,6 @@
 			"Occurs on latitudes from [0] to [50] percent of distance equator to pole",
 			"Grants [+60 Science] to the first civilization to discover it",
 			"Neighboring tiles will convert to [Coast]",
-			"Grants [+1200 Gold] to the first civilization to discover it"
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Coast",
 		"impassable": true,
