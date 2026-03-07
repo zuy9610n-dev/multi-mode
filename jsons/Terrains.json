@@ -249,7 +249,6 @@
 			"Must be adjacent to [0] to [1] [Desert] tiles",
 			"Must be adjacent to [4] to [6] [Elevated] tiles",
 			"Grants [+10 Faith] to the first civilization to discover it <(modified by game speed)>",
-			"Grants [+500 Gold] to the first civilization to discover it",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
@@ -334,7 +333,7 @@
 			"Occurs on latitudes from [0] to [50] percent of distance equator to pole",
 			"Grants [+60 Science] to the first civilization to discover it",
 			"Neighboring tiles will convert to [Coast]",
-			"Grants [+500 Gold] to the first civilization to discover it"
+			"Grants [+1200 Gold] to the first civilization to discover it"
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Coast",
 		"impassable": true,
