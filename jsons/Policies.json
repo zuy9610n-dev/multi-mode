@@ -273,7 +273,7 @@
 		"[+100]% Production when constructing [Shrine] buildings [in all cities]",
 		"[+100]% Production when constructing [Temple] buildings [in all cities]",
 		"[+100]% Production when constructing [Grand Temple] wonders [in all cities]",
-        "[+1 Culture, +1 Faith] [in capital]",
+        "[+2 Culture, +1 Faith] [in capital]",
         "Comment [Unlocks [Great Mosque of Djenne]]"
         ],
         "policies": [
@@ -290,7 +290,7 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-25]%",
-					"[+1 Faith] [in capital]",
+					"[+2 Faith] [in capital]",
                     "[+1 Happiness] from every [Temple]",
                 ],
                 "row": 1,
@@ -333,7 +333,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                		"[+1 Food, +3 Culture] from every [Holy site]",
+                		"[+2 Food, +3 Culture] from every [Holy site]",
 	      	            "Free [Great Prophet] appears",
 					    "Provides a [Garden] in your first [4] cities for free",
                         "[-10]% Culture cost of adopting new Policies",
