@@ -282,6 +282,7 @@
                 "uniques": [
                     "[+1 Culture, +1 Faith] from every [Shrine]",
                     "[+1 Culture, +1 Faith] from every [Temple]",
+					"[+1 Culture, +1 Faith] [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -311,8 +312,7 @@
                 "name": "Free Religion",
                 "uniques": [
                     "[+33]% [Science] from every [Grand Temple]",
-					"[+1 Culture, +1 Faith] [in all cities]",
-					"[+1 Science] from every [Temple]",
+					"[+2 Science] from every [Temple]",
                 ],
                 "requires": ["Organized Religion"],
                 "row": 2,
@@ -323,7 +323,8 @@
                 "uniques": [
 		                "[-15]% Culture cost of adopting new Policies",
 					    "[-10]% Culture cost of natural border growth [in all cities]",
-					    "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
+					    "May choose [2] additional [Enhancer] beliefs when [founding] a religion",
+					    "Gain a free [Enhancer] belief <after founding a religion>",
 					    "Gain a free [Enhancer] belief <after founding a religion>"
 				],
                 "requires": ["Organized Religion"],
