@@ -9,6 +9,6 @@
         "[+50]% XP gained from combat <for [{Major} {AI player}] units> <on [Deity] difficulty>",
         "[This unit] gains [10] XP <for [{Major} {AI player}] units> <on [Deity+] difficulty> <upon gaining a [all] unit> <Suppress warning [is not allowed]>",
         "[+50]% XP gained from combat <for [{Major} {AI player}] units> <on [Deity+] difficulty>",
-        "[+25]% XP gained from combat <for [{Major} {player}] units> <on [Deity+] difficulty>"
+        "[+50]% XP gained from combat <for [{player}] units> <on [Deity+] difficulty>"
     ]
 }
