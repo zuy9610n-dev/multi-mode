@@ -136,6 +136,7 @@
         "adjective": ["Polish"],
         "startBias": ["Desert",
                       "Hill",
+                      "Coast",
                       "Avoid [Tundra]"
         ],
         "preferredVictoryType": "Cultural",
