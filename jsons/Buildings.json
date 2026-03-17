@@ -3,7 +3,9 @@
 		"name": "neg15percent happiness",
 		"cost": 0,
 		"isNationalWonder": true,
-		"uniques": ["[-15]% Unhappiness from [Population] [in all cities]"] 
+		"uniques": [
+			"Unbuildable <for [AI player]>",
+			"[-15]% Unhappiness from [Population] [in all cities]"] 
     },
 	{
         "name": "Ducal Stable",
