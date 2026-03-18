@@ -100,7 +100,7 @@
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0,
 		"barbarianSpawnDelay": 0,
-		"playerBonusStartingUnits": ["Scout","Scout","Era Starting Unit"],
+		"playerBonusStartingUnits": ["Scout","Scout"],
 		"aiCityGrowthModifier": 0.55,
 		"aiUnitCostModifier": 0.55,
 		"aiBuildingCostModifier": 0.50,
