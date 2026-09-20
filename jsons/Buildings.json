@@ -272,31 +272,6 @@
         "quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
     },
     {
-        "name": "Cathedral",
-        "cost": 0,
-        "faith": 1,
-        "culture": 4,
-        "happiness": 1,
-        "specialistSlots": {
-            "Artist": 1
-        },
-        "uniques": [
-            "Unbuildable",
-            "Only available <when religion is enabled>"
-        ]
-    },
-    {
-        "name": "Mosque",
-        "cost": 0,
-        "culture": 2,
-        "faith": 3,
-        "happiness": 1,
-        "uniques": [
-            "Unbuildable",
-            "Only available <when religion is enabled>"
-        ]
-    },
-    {
         "name": "Pagoda",
         "cost": 0,
         "culture": 2,
@@ -305,18 +280,6 @@
         "uniques": [
             "Unbuildable",
 			"[10]% Food is carried over after population increases [in this city]",
-            "Only available <when religion is enabled>"
-        ]
-    },
-    {
-        "name": "Stupa",
-        "cost": 0,
-        "happiness": 1,
-        "faith": 2,
-        "culture": 1,
-        "science": 2,
-        "uniques": [
-            "Unbuildable",
             "Only available <when religion is enabled>"
         ]
     }
