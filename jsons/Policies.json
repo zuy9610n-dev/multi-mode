@@ -323,6 +323,9 @@
                 "uniques": [
 		                "[-15]% Culture cost of adopting new Policies",
 					    "[-10]% Culture cost of natural border growth [in all cities]",
+					    "Comment [Gain a free [Reformation] belief]",
+					    "Triggers a [Reformation] event <after founding a religion> <hidden from users>",
+					    "Triggers a [Reformation] event <upon founding a Religion> <hidden from users>",
 					    "May choose [2] additional [Enhancer] beliefs when [founding] a religion",
 					    "Gain a free [Enhancer] belief <after founding a religion>",
 					    "Gain a free [Enhancer] belief <after founding a religion>"
