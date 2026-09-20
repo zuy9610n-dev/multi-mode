@@ -1,5 +1,5 @@
 [   
- //{
+ {
         "name": "Spain",
         "leaderName": "Isabella",
         "adjective": [
@@ -34,10 +34,8 @@
         "uniqueName": "Seven Cities of Gold",
         "uniques": [
             "[+200 Gold] for discovering a Natural Wonder (bonus enhanced to [+500 Gold] if first to discover it) <(modified by game speed)>",
-            "Gain enough Faith for [30]% of a Great Prophet",
             "[+1 Happiness] for every known Natural Wonder",
             "[+100]% Yield from every [Natural Wonder]",
-            "[+1] Movement <for [Land] units>",
             "[Perfect Settler] units gain the [Ignore terrain cost] promotion <hidden from users>",
             "[Worker] units gain the [Ignore terrain cost] promotion <hidden from users>",
         ],
@@ -96,7 +94,7 @@
             "Garcia",
             "El Lobo"
         ]
-     //},
+     },
      {
         "name": "Korea",
         "leaderName": "Sejong",
