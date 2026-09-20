@@ -151,7 +151,7 @@
         "outerColor": [241,3,0],
         "innerColor": [80,11,14],
         "uniqueName": "Solidarity",
-        "uniques": ["[-15]% Culture cost of adopting new Policies",
+        "uniques": ["[-25]% Culture cost of adopting new Policies",
                     "Free Social Policy <upon entering a new era> <after turn number [3]>"
                    ],
         "cities": [
