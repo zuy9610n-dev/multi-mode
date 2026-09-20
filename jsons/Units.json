@@ -6,7 +6,7 @@
         "unitType": "Mounted",
         "movement": 3,
         "strength": 16,
-        "cost": 95,
+        "cost": 90,
         "requiredTech": "Chivalry",
         "requiredResource": "Horses",
         "uniques": [
