@@ -4,20 +4,19 @@
         "replaces": "Knight",
         "uniqueTo": "Poland",
         "unitType": "Mounted",
-        "movement": 4,
-        "strength": 18,
-        "cost": 125,
+        "movement": 3,
+        "strength": 16,
+        "cost": 95,
         "requiredTech": "Chivalry",
         "requiredResource": "Horses",
         "uniques": [
             "Can move after attacking",
             "No defensive terrain bonus",
-            "[-33]% Strength <vs cities> <when attacking>",
-            "[+33]% Strength <vs [Armored] units>",
+            "[+33]% Strength <vs [Archery] units>",
             "[+33]% Strength <vs [Mounted] units>"
         ],
-        "promotions": ["Charge", "Heavy Charge", "Quick Study", "Extra Movement"],
-        "upgradesTo": "Cavalry",
+        "promotions": ["Great Generals I", "Quick Study", "Extra Movement"],
+        "upgradesTo": "Musketman",
         "obsoleteTech": "Military Science",
         "attackSound": "horse"
     }
