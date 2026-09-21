@@ -19,5 +19,65 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Military Science",
         "attackSound": "horse"
+    },
+    {
+        "name": "Land Beggar",
+        "unitType": "Melee Water",
+        "replaces": "Privateer",
+        "uniqueTo": "Poland",
+        "movement": 5,
+        "strength": 21,
+        "cost": 115,
+        "requiredTech": "Navigation",
+        "upgradesTo": "Destroyer",
+        "uniques": [
+            "[+33]% Health from pillaging tiles",
+            "Can move after attacking"
+        ],
+        "promotions": [
+            "Coastal Raider I",
+            "Coastal Raider II",
+            "Supply",
+            "[Privateer] ability"
+        ],
+        "attackSound": "cannon"
+    },
+    {
+        "name": "Settler",
+        "unitType": "Civilian",
+        "movement": 2,
+        "cost": 90,
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "All tiles cost 1 movement <if [Palace] is not constructed>",
+            "[2] Movement <if [Palace] is not constructed>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population",
+            "Cost increases by [20] when built"
+        ],
+        "hurryCostModifier": 16
+    },
+    {
+        "name": "Pioneer",
+        "unitType": "Scout",
+        "uniqueTo": "America",
+        "replaces": "Settler",
+        "movement": 2,
+        "cost": 90,
+		"strength": 3,
+        "uniques": ["Comment [Gains Strength per era, ending at the Modern era]",
+            "Founds a new city <by consuming this unit>",
+            "All tiles cost 1 movement <if [Palace] is not constructed>",
+            "[2] Movement <if [Palace] is not constructed>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population",
+            "Cost increases by [22] when built",
+			"[+100]% Strength <starting from the [Classical era]> <hidden from users>",
+			"[+50]% Strength <starting from the [Medieval era]> <hidden from users>",
+			"[+50]% Strength <starting from the [Renaissance era]> <hidden from users>",
+			"[+30]% Strength <starting from the [Industrial era]> <hidden from users>",
+			"[+30]% Strength <starting from the [Modern era]> <hidden from users>"
+        ],
+        "hurryCostModifier": 16
     }
 ]
