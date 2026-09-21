@@ -98,7 +98,7 @@
                 "uniques": [
 					"[+1 Production] [in all cities]",
                     "[+5]% Production when constructing [All] buildings [in all cities]",
-					"[+5]% Production towards any buildings that already exist in the Capital"
+					"[+10]% Production towards any buildings that already exist in the Capital"
                 ],
                 "row": 1,
                 "column": 1
@@ -128,7 +128,7 @@
                 "name": "Representation",
                 "uniques": [
                     "Each city founded increases culture cost of policies [50]% less than normal",
-					"[+1 Gold] from every [Monument]",
+					"[+2 Gold] from every [Monument]",
                     "[-33]% unhappiness from the number of cities"                    
                 ],
                 "requires": [
@@ -140,7 +140,7 @@
             {
                 "name": "Trade Networks",
                 "uniques": [
-                    "[+1 Production, +1 Happiness] [in all cities connected to capital]",
+                    "[+1 Production, +2 Happiness] [in all cities connected to capital]",
 					"[+10]% [Gold] from Trade Routes",
                     "[-5]% Unhappiness from [Population] [in all cities connected to capital]",
                     "[-100]% weight to this choice for AI decisions"
