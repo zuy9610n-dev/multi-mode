@@ -112,7 +112,7 @@
                 "row": 1,
                 "column": 4
             },
-            //{
+            {
                 "name": "Expansionism",
                 "uniques": [
                     "Free [Settler] appears",
@@ -123,7 +123,7 @@
                 ],
                 "row": 2,
                 "column": 1
-            //},
+            },
             {
                 "name": "Representation",
                 "uniques": [
@@ -212,7 +212,7 @@
                 "uniques": [
                     "[+50]% XP gained from combat <for [Military] units>",
 					"[+50]% Production when constructing [Courthouse] buildings [in all cities]",
-                    "[+1 Production, +1 Gold, +1 Food, +2 Happiness] from every [Courthouse]"
+                    "[+1 Production, +1 Gold, +1 Food, +1 Happiness] from every [Courthouse]"
                 ],
                 "requires": [
                     "Warrior Code"
@@ -291,7 +291,6 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-25]%",
-					"[+2 Faith] [in capital]",
                     "[+1 Happiness] from every [Temple]",
                 ],
                 "row": 1,
@@ -302,8 +301,7 @@
                 "uniques": [
                     "[+1 Gold] from every [Temple]",
                     "[+1 Gold] from every [Shrine]",
-                    "[+3 Gold] from every [Holy site]",
-                    "[+33]% [Gold] from every [Grand Temple]"
+                    "[+3 Gold] from every [Holy site]"
                 ],
                 "row": 1,
                 "column": 5
@@ -325,7 +323,6 @@
 					    "[-10]% Culture cost of natural border growth [in all cities]",
 					    "Comment [Gain a free [Reformation] belief]",
 					    "Triggers a [Reformation] event <after founding a religion> <hidden from users>",
-					    "Triggers a [Reformation] event <upon founding a Religion> <hidden from users>",
 					    "May choose [2] additional [Enhancer] beliefs when [founding] a religion",
 					    "Gain a free [Enhancer] belief <after founding a religion>",
 					    "Gain a free [Enhancer] belief <after founding a religion>"
@@ -340,7 +337,6 @@
                 		"[+2 Food, +3 Culture] from every [Holy site]",
 	      	            "Free [Great Prophet] appears",
 					    "Provides a [Garden] in your first [4] cities for free",
-                        "[-10]% Culture cost of adopting new Policies",
 					    "May buy [Piety Complete Building] buildings for [1875] [Faith] [in capital] <(modified by game speed)> <hidden from users> <starting from the [Industrial era]>",
                         "Comment [May buy [{non-[Great Scientist]} {Great Person}] units for [1875] [Faith] [in capital] [(modified by game speed)] [once] [starting from the [Industrial era]]]"
                 ]
@@ -380,7 +376,7 @@
                 "name": "Monumentality",
                 "uniques": [
                     "[+34]% [Culture] [in all cities with a world wonder]",
-					"[20]% of excess happiness converted to [Science]",
+					"[10]% of excess happiness converted to [Science]",
                     "Empire enters golden age"
                 ],
                 "row": 1,
@@ -415,7 +411,6 @@
                     "[+1 Science] from every [Amphitheater]",
                     "[+1 Science] from every [Opera House]",
                     "[+1 Science] from every [Broadcast Tower]",
-					"[+2 Science] from every [Landmark]"
                 ],
                 "requires": ["Cultural Exchange"],
                 "row": 3,
