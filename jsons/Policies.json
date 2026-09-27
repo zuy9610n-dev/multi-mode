@@ -106,7 +106,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-					"[+5]% Production when constructing [All] wonders [in the Capital]",
+					"[+5]% Production when constructing [All] wonders [in all cities]",
                     "Can build [all] improvements at a [+25]% rate",
 					"Free [Worker] appears"
                 ],
