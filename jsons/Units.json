@@ -26,7 +26,7 @@
         "replaces": "Privateer",
         "uniqueTo": "Poland",
         "movement": 5,
-        "strength": 21,
+        "strength": 22,
         "cost": 115,
         "requiredTech": "Navigation",
         "upgradesTo": "Destroyer",
@@ -38,7 +38,6 @@
             "Coastal Raider I",
             "Coastal Raider II",
             "Supply",
-            "[Privateer] ability"
         ],
         "attackSound": "cannon"
     },
@@ -46,16 +45,15 @@
         "name": "Settler",
         "unitType": "Civilian",
         "movement": 2,
-        "cost": 100,
+        "cost": 106,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "All tiles cost 1 movement <if [Palace] is not constructed>",
             "[2] Movement <if [Palace] is not constructed>",
             "Excess Food converted to Production when under construction",
-            "Requires at least [2] population",
-            "Cost increases by [10] when built"
+            "Requires at least [2] population"
         ],
-        "hurryCostModifier": 16
+        "hurryCostModifier": 20
     },
     {
         "name": "Pioneer",
@@ -63,7 +61,7 @@
         "uniqueTo": "America",
         "replaces": "Settler",
         "movement": 2,
-        "cost": 90,
+        "cost": 106,
 		"strength": 3,
         "uniques": ["Comment [Gains Strength per era, ending at the Modern era]",
             "Founds a new city <by consuming this unit>",
@@ -71,13 +69,12 @@
             "[2] Movement <if [Palace] is not constructed>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
-            "Cost increases by [22] when built",
 			"[+100]% Strength <starting from the [Classical era]> <hidden from users>",
 			"[+50]% Strength <starting from the [Medieval era]> <hidden from users>",
 			"[+50]% Strength <starting from the [Renaissance era]> <hidden from users>",
 			"[+30]% Strength <starting from the [Industrial era]> <hidden from users>",
 			"[+30]% Strength <starting from the [Modern era]> <hidden from users>"
         ],
-        "hurryCostModifier": 16
+        "hurryCostModifier": 20
     }
 ]
