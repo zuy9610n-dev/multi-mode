@@ -106,6 +106,7 @@
             {
                 "name": "Citizenship",
                 "uniques": [
+					"[+5]% Production when constructing [All] wonders [in the Capital]",
                     "Can build [all] improvements at a [+25]% rate",
 					"Free [Worker] appears"
                 ],
@@ -323,6 +324,7 @@
 					    "[-10]% Culture cost of natural border growth [in all cities]",
 					    "Comment [Gain a free [Reformation] belief]",
 					    "Triggers a [Reformation] event <after founding a religion> <hidden from users>",
+						"Triggers a [Reformation] event <upon founding a Religion> <hidden from users>",
 					    "May choose [2] additional [Enhancer] beliefs when [founding] a religion",
 					    "Gain a free [Enhancer] belief <after founding a religion>",
 					    "Gain a free [Enhancer] belief <after founding a religion>"
