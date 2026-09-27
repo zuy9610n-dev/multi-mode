@@ -274,7 +274,7 @@
 		"[+100]% Production when constructing [Shrine] buildings [in all cities]",
 		"[+100]% Production when constructing [Temple] buildings [in all cities]",
 		"[+100]% Production when constructing [Grand Temple] wonders [in all cities]",
-        "[+2 Culture, +1 Faith] [in capital]",
+        "[+1 Culture, +1 Faith] [in capital]",
         "Comment [Unlocks [Great Mosque of Djenne]]"
         ],
         "policies": [
@@ -283,7 +283,6 @@
                 "uniques": [
                     "[+1 Culture, +1 Faith] from every [Shrine]",
                     "[+1 Culture, +1 Faith] from every [Temple]",
-					"[+1 Culture, +1 Faith] [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -369,7 +368,6 @@
 			"[+100]% Production when constructing [Opera House] buildings [in all cities]",
 			"[+100]% Production when constructing [Museum] buildings [in all cities]",
 			"[+100]% Production when constructing [Broadcast Tower] buildings [in all cities]",
-			"[-15]% Culture cost of adopting new Policies"
                 ],
                 "row": 1,
                 "column": 3
@@ -408,7 +406,7 @@
                 "name": "Artistic Genius",
                 "uniques": [
                     "Free [Great Artist] appears",
-					"[+20]% [Culture] from every [Museum]","[+20]% [Culture] from every [Opera House]","[+20]% [Culture] from every [Broadcast Tower]",
+					"[+10]% [Culture] from every [Museum]","[+15]% [Culture] from every [Opera House]","[+20]% [Culture] from every [Broadcast Tower]",
 					"[+1 Science] from every [Museum]",
                     "[+1 Science] from every [Amphitheater]",
                     "[+1 Science] from every [Opera House]",
